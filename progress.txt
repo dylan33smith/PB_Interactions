@@ -1,0 +1,33 @@
+
+output of phanotate for A1a
+
+b'Warning: tRNAscan or Aragorn were not found, proceding without tRNA masking.'
+b'#id:\tA1a'
+b'#START\tSTOP\tFRAME\tCONTIG\tSCORE'
+b'1\t552\t+\tA1a\t-5.967169E+02'
+b'562\t2943\t+\tA1a\t-4.095286E+09'
+b'2946\t3548\t+\tA1a\t-4.242529E+02'
+b'3564\t6248\t+\tA1a\t-1.094128E+12'
+...
+b'38991\t39434\t+\tA1a\t-7.420834E+01'
+b'39431\t39694\t+\tA1a\t-7.008837E+00'
+b'39839\t41299\t+\tA1a\t-3.500374E+07'
+b'41314\t42174\t+\tA1a\t-4.013626E+03'
+b'42200\t43219\t+\tA1a\t-4.053322E+04'
+b'43231\t43428\t+\tA1a\t-5.571342E+00'
+b''
+
+
+b'#START\tSTOP\tFRAME\tCONTIG\tSCORE'
+<class 'bytes'>
+b'1\t552\t+\tA1a\t-5.967169E+02'
+<class 'bytes'>
+
+- bytes class
+    - immutable
+    - each element is an integer between 0 and 255
+    - can be created using b"" literals,, bytes() constructor, or bytes.fromhex()
+    - 
+
+
+
