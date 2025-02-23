@@ -1,0 +1,21 @@
+{
+    "new_blocks": [
+      "Phage_T7_tail", "Tail_spike_N", "Prophage_tail", "BppU_N", "Mtd_N", 
+      "Head_binding", "DUF3751", "End_N_terminal", "phage_tail_N", "Prophage_tailD1", 
+      "DUF2163", "Phage_fiber_2", "unknown_N0", "unknown_N1", "unknown_N2", "unknown_N3", "unknown_N4", 
+      "unknown_N6", "unknown_N10", "unknown_N11", "unknown_N12", "unknown_N13", "unknown_N17", "unknown_N19", 
+      "unknown_N23", "unknown_N24", "unknown_N26", "unknown_N29", "unknown_N36", "unknown_N45", "unknown_N48", 
+      "unknown_N49", "unknown_N53", "unknown_N57", "unknown_N60", "unknown_N61", "unknown_N65", "unknown_N73", 
+      "unknown_N82", "unknown_N83", "unknown_N101", "unknown_N114", "unknown_N119", "unknown_N122", 
+      "unknown_N163", "unknown_N174", "unknown_N192", "unknown_N200", "unknown_N206", "unknown_N208", 
+      "Lipase_GDSL_2", "Pectate_lyase_3", "gp37_C", "Beta_helix", "Gp58", "End_beta_propel", 
+      "End_tail_spike", "End_beta_barrel", "PhageP22-tail", "Phage_spike_2", 
+      "gp12-short_mid", "Collar", 
+      "unknown_C2", "unknown_C3", "unknown_C8", "unknown_C15", "unknown_C35", "unknown_C54", "unknown_C76", 
+      "unknown_C100", "unknown_C105", "unknown_C112", "unknown_C123", "unknown_C179", "unknown_C201", 
+      "unknown_C203", "unknown_C228", "unknown_C234", "unknown_C242", "unknown_C258", "unknown_C262", 
+      "unknown_C267", "unknown_C268", "unknown_C274", "unknown_C286", "unknown_C292", "unknown_C294", 
+      "Peptidase_S74", "Phage_fiber_C", "S_tail_recep_bd", "CBM_4_9", "DUF1983", "DUF3672"
+    ]
+  }
+  
